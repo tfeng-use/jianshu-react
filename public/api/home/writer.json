@@ -1,0 +1,40 @@
+{
+  "status": "200",
+  "data": [
+    {
+      "id": 0,
+      "nickName": "遛遛心情的溜妈",
+      "wordNumber": "542.5K",
+      "startNumber": "2.1k",
+      "headerImg": "https://upload.jianshu.io/users/upload_avatars/5205317/1179d71b-e7c6-4023-89e8-bba25f88272b.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },
+    {
+      "id": 1,
+      "nickName": "琪官Kafka",
+      "wordNumber": "346.5K",
+      "startNumber": "3.7k",
+      "headerImg": "https://upload.jianshu.io/users/upload_avatars/6539412/50dad259-2c44-4d0d-9a5e-7bce3664cb6a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },
+    {
+      "id": 2,
+      "nickName": "穿着prada挤地铁",
+      "wordNumber": "340.2K",
+      "startNumber": "3.3k",
+      "headerImg": "https://upload.jianshu.io/users/upload_avatars/2587459/0c7e061f-e78e-4b09-b511-340846c4ea0f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },
+    {
+      "id": 3,
+      "nickName": "无限猴子",
+      "wordNumber": "128.4k",
+      "startNumber": "385",
+      "headerImg": "https://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    },
+    {
+      "id": 4,
+      "nickName": "徐林Grace",
+      "wordNumber": "582.8K",
+      "startNumber": "4.7k",
+      "headerImg": "https://upload.jianshu.io/users/upload_avatars/5545154/1a3d5ed6-9ad1-44b3-9457-3e6a29dd1b71.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp"
+    }
+  ]
+}
