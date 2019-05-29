@@ -8,7 +8,7 @@ npm install
 npm run dev
 ```
 =======
-# jianshu-react
+# react-jianshu
 仿简书官网简易版
 
 # 主要功能
